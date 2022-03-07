@@ -1,20 +1,39 @@
 {
-	"interAdType" : "applovin",
-	"bannerAdType" : "applovin",
-	
-	
-	
-	"admobInterstitialID" : "ca-app-pub-7021162273905623/6209784238",
+
+  "GuideData": {
+
+    "AdsController":
+
+      {
+
+        "NetworkAds": "admob",
+
+         
+
+        "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
+
+        "InterstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
+
+        "NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
+
+       
+
+      "applovinbanner": "a1dc253a6c9b35eb",
+      "applovininter": "65025854b906f01d",
+ "applovinnativ": "90939a973a54717f"
 		
-	"admobOpenApp" : "ca-app-pub-7021162273905623/3523290962",
-	
-	"admobBanner" : "ca-app-pub-7021162273905623/3775192588",
-	
-	"appodealAppKey" : "455cbc739e725e3d3e9fd13f7e6e83ccae29ee60191c280d",
-	
-	"applovinBanner" : "9c17ea1630ca1537",
-	
-	"applovinInter" : "1abefa6c8e28e9dd"
-	
+
+
+		
+
+      }
+
+
+
+ 
+
+
+
+  }
 
 }
